@@ -110,13 +110,12 @@ The database schema is provided in `mystore.sql`. Import it into MySQL using php
 2. **Clone the repository** into the XAMPP `htdocs` folder:
    ```bash
    cd C:/xampp/htdocs
-   git clone https://github.com/sakinanehra/Eccomerce-Website.git
+   git clone https://github.com/sakinanehra/My-Store.git
    ```
 3. **Create the database:** open `http://localhost/phpmyadmin`, create a database named `mystore`, then click **Import** and select `mystore.sql`.
 4. **Check the connection settings** in the PHP connection file inside the `functions` folder (host `localhost`, user `root`, empty password by default on XAMPP).
-5. **Run the project:** open `http://localhost/Eccomerce-Website/` in your browser.
-6. **Admin panel:** open `http://localhost/Eccomerce-Website/admin_area/`.
-
+5. **Run the project:** open `http://localhost/My-Store/` in your browser.
+6. **Admin panel:** open `http://localhost/My-Store/admin_area/`.
 > ⚠️ Use demo credentials only for testing. Never commit real passwords.
 
 ---
