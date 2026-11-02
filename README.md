@@ -39,43 +39,42 @@ A PHP and MySQL e-commerce web application with separate **User** and **Admin** 
 
 **Home Page**
 
-![Home Page](screenshots/HomePage.png.png)
+![Home Page](Demo%20Screenshots/Screenshots/HomePage.png.png)
 
 **User Registration**
 
-![User Registration](screenshots/UserRegistration.png.png)
+![User Registration](Demo%20Screenshots/Screenshots/UserRegistration.png.png)
 
 **Login**
 
-![Login](screenshots/Login.png)
+![Login](Demo%20Screenshots/Screenshots/Login.png)
 
 **Product Details**
 
-![Product Details](screenshots/ProductDetails.png.png)
+![Product Details](Demo%20Screenshots/Screenshots/ProductDetails.png.png)
 
 **Shopping Cart**
 
-![Shopping Cart](screenshots/Cart.png.png)
+![Shopping Cart](Demo%20Screenshots/Screenshots/Cart.png.png)
 
 ### Admin Side
 
 **Admin Panel**
 
-![Admin Panel](screenshots/AdminPanel.png.png)
+![Admin Panel](Demo%20Screenshots/Screenshots/AdminPanel.png.png)
 
 **Insert Products**
 
-![Insert Products](screenshots/InsertProducts.png.png)
+![Insert Products](Demo%20Screenshots/Screenshots/InsertProducts.png.png)
 
 **Categories**
 
-![Categories](screenshots/Categories.png)
+![Categories](Demo%20Screenshots/Screenshots/Categories.png)
 
 **Brands**
 
-![Brands](screenshots/Brands.png)
+![Brands](Demo%20Screenshots/Screenshots/Brands.png)
 
----
 
 ## 📁 Project Structure
 
@@ -86,7 +85,7 @@ Eccomerce-Website/
 ├── users_area/           # User account pages
 ├── functions/            # Reusable PHP functions
 ├── product images/       # Product images
-├── screenshots/          # README screenshots
+├── Demo screenshots/     # README screenshots
 ├── index.php             # Home page
 ├── display_all.php       # All products page
 ├── product_details.php   # Single product page
